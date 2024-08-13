@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Rahul Jaiswar, a final year student pursuing my Bachelor's degree in Information Technology from Mumbai University. With a passion for all things tech, my major skills revolve around front-end development and related technologies.<br><br>- 🔭 I've got a secret project brewing behind the scenes.<br>- 📚 I'm currently learning React and Tailwind<br>- ⚡ In my free time I scroll mangas and anime<br>- ⚡ Fun fact:  I once spent an entire night debugging a simple "Hello World" program because I forgot to close a parentheses. Ah, the joys of coding!</p>
+<p align="left">I'm Sakshi Chavan, a final year student pursuing my Bachelor's degree in Information Technology from Mumbai University. With a passion for all things tech, my major skills revolve around front-end development and related technologies.<br><br>- 🔭 I've got a secret project brewing behind the scenes.<br>- 📚 I'm currently learning React and Tailwind<br>- ⚡ In my free time I scroll mangas and anime<br>- ⚡ Fun fact:  I once spent an entire night debugging a simple "Hello World" program because I forgot to close a parentheses. Ah, the joys of coding!</p>
 
 ###
 
